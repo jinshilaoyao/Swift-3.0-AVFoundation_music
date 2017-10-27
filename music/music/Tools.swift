@@ -11,4 +11,5 @@ import UIKit
 
 class Tools: NSObject {
     let name: String = "joker"
+    let sex: String = "male"
 }
