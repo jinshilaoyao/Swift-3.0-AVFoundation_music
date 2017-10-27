@@ -15,4 +15,8 @@ class Tools: NSObject {
     let sex: String = "male"
 
     let age: Int = 19
+    
+    func getAge() {
+        
+    }
 }
