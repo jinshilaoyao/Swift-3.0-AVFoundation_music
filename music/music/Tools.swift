@@ -10,5 +10,5 @@
 import UIKit
 
 class Tools: NSObject {
-
+    let name: String = "joker"
 }
