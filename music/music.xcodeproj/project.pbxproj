@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3037939B1FA2CDA3000FCA3C /* Tools.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3037939A1FA2CDA3000FCA3C /* Tools.swift */; };
 		EB93DEFF1D93B91900766F27 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB93DEFE1D93B91900766F27 /* AppDelegate.swift */; };
 		EB93DF011D93B91900766F27 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB93DF001D93B91900766F27 /* ViewController.swift */; };
 		EB93DF041D93B91900766F27 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EB93DF021D93B91900766F27 /* Main.storyboard */; };
@@ -38,7 +37,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		3037939A1FA2CDA3000FCA3C /* Tools.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tools.swift; sourceTree = "<group>"; };
 		EB93DEFB1D93B91900766F27 /* music.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = music.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EB93DEFE1D93B91900766F27 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EB93DF001D93B91900766F27 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -109,7 +107,6 @@
 				EB93DF071D93B91900766F27 /* LaunchScreen.storyboard */,
 				EB93DF0A1D93B91900766F27 /* Info.plist */,
 				EB93DF101D93B94500766F27 /* AudioTools.swift */,
-				3037939A1FA2CDA3000FCA3C /* Tools.swift */,
 			);
 			path = music;
 			sourceTree = "<group>";
@@ -238,7 +235,6 @@
 				EB93DF011D93B91900766F27 /* ViewController.swift in Sources */,
 				EB93DF111D93B94500766F27 /* AudioTools.swift in Sources */,
 				EB93DEFF1D93B91900766F27 /* AppDelegate.swift in Sources */,
-				3037939B1FA2CDA3000FCA3C /* Tools.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -400,7 +396,6 @@
 				EB93DF0F1D93B91900766F27 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
