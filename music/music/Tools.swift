@@ -19,8 +19,4 @@ class Tools: NSObject {
     func getAge() {
         
     }
-    
-    func getSex() {
-        
-    }
 }
