@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3039FAA61FA7792F008F1D56 /* LCS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3039FAA51FA7792F008F1D56 /* LCS.swift */; };
 		30854A6D1FA347DE007EF842 /* ToolsB.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30854A6C1FA347DE007EF842 /* ToolsB.swift */; };
 		30D8F8411FA2FFF600677B23 /* Tools.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30D8F8401FA2FFF600677B23 /* Tools.swift */; };
 		EB93DEFF1D93B91900766F27 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB93DEFE1D93B91900766F27 /* AppDelegate.swift */; };
@@ -39,6 +40,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3039FAA51FA7792F008F1D56 /* LCS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LCS.swift; sourceTree = "<group>"; };
 		30854A6C1FA347DE007EF842 /* ToolsB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToolsB.swift; sourceTree = "<group>"; };
 		30D8F8401FA2FFF600677B23 /* Tools.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tools.swift; sourceTree = "<group>"; };
 		EB93DEFB1D93B91900766F27 /* music.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = music.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -113,6 +115,7 @@
 				EB93DF0A1D93B91900766F27 /* Info.plist */,
 				EB93DF101D93B94500766F27 /* AudioTools.swift */,
 				30D8F8401FA2FFF600677B23 /* Tools.swift */,
+				3039FAA51FA7792F008F1D56 /* LCS.swift */,
 			);
 			path = music;
 			sourceTree = "<group>";
@@ -242,6 +245,7 @@
 				EB93DF011D93B91900766F27 /* ViewController.swift in Sources */,
 				EB93DF111D93B94500766F27 /* AudioTools.swift in Sources */,
 				EB93DEFF1D93B91900766F27 /* AppDelegate.swift in Sources */,
+				3039FAA61FA7792F008F1D56 /* LCS.swift in Sources */,
 				30D8F8411FA2FFF600677B23 /* Tools.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
