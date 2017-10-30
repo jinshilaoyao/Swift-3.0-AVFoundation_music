@@ -12,6 +12,10 @@ class ToolsB: NSObject {
     
     let name: String = "joker"
 
-let age: Int = 12
+    let age: Int = 12 {
+        didSet {
+            age = 18
+        }
+    }
     
 }
