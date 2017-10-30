@@ -10,4 +10,5 @@ import UIKit
 
 class ToolsB: NSObject {
 
+    let age: Int = 12
 }
