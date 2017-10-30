@@ -10,8 +10,11 @@ import UIKit
 
 class ToolsB: NSObject {
     
-    let name: String = "joker"
+    let name: String = "joker" {
+    didSet {
+name = "Bitt"
+}
+}
 
-let age: Int = 12
-    
+    let age: Int = 12
 }
