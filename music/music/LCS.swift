@@ -9,5 +9,5 @@
 import UIKit
 
 class LCS: NSObject {
-
+    let age = 123
 }
