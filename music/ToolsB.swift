@@ -9,7 +9,10 @@
 import UIKit
 
 class ToolsB: NSObject {
-    
+
     let name: String = "joker"
-    
+
+
+    let age: Int = 12
+
 }
