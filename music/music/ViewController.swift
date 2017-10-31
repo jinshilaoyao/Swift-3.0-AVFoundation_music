@@ -11,6 +11,7 @@ import AVFoundation
 
 class ViewController: UIViewController, AVAudioPlayerDelegate {
 
+    let name: String = "laoin"
     var player: AVAudioPlayer?
     override func viewDidLoad() {
         super.viewDidLoad()
