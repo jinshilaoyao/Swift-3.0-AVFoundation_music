@@ -12,6 +12,12 @@ class LCS: NSObject {
     let age = 123
     
     let name = "joker"
+
     
     let sex = "male"
+
+    func getName() {
+        
+    }
+
 }
