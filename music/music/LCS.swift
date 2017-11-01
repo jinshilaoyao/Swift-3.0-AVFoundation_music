@@ -12,7 +12,7 @@ import UIKit
 class LCS: NSObject {
     
 
-    let age: Int = 12
+    var age: Int = 12
     let name: Stirng = "joker"
     
     func setAge() {
@@ -26,7 +26,7 @@ class LCS: NSObject {
 
 extension LCS {
     func gitName() {
-        
+        age = 90
     }
     
     func gitAge() {
