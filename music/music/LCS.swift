@@ -20,6 +20,10 @@ extension LCS {
     func changeName() {
         
     }
+    
+    func changeAge() {
+        
+    }
 }
 extension LCS {
     func gitName() {
