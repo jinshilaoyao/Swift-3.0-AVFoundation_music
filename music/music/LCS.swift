@@ -19,6 +19,9 @@ class LCS: NSObject {
         
     }
     
+    func setName() {
+        
+    }
 }
 
 extension LCS {
