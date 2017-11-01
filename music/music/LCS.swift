@@ -13,7 +13,7 @@ class LCS: NSObject {
     
 
     var age: Int = 12
-    let name: Stirng = "joker"
+    var name: Stirng = "joker"
     
     func setAge() {
         
@@ -30,6 +30,6 @@ extension LCS {
     }
     
     func gitAge() {
-        
+        name = "angle"
     }
 }
