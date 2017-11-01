@@ -15,3 +15,9 @@ class LCS: NSObject {
     let age: Int = 12
     let name: Stirng = "joker"
 }
+
+extension LCS {
+    func gitName() {
+        
+    }
+}
