@@ -20,4 +20,8 @@ extension LCS {
     func gitName() {
         
     }
+    
+    func gitAge() {
+        
+    }
 }
