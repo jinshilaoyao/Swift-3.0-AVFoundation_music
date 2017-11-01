@@ -18,10 +18,6 @@ class LCS: NSObject {
     func setAge() {
         age = 19
     }
-    
-    func setName() {
-        name = "bitt"
-    }
 }
 
 extension LCS {
