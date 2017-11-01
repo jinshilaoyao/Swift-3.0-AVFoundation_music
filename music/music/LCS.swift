@@ -14,6 +14,11 @@ class LCS: NSObject {
 
     let age: Int = 12
     let name: Stirng = "joker"
+    
+    func setAge() {
+        
+    }
+    
 }
 
 extension LCS {
