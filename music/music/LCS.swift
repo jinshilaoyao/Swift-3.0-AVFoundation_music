@@ -10,4 +10,6 @@
 import UIKit
 
 class LCS: NSObject {
+    
+    let age: Int = 12
 }
