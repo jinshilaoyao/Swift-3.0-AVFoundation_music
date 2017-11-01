@@ -1,3 +1,4 @@
+
 //
 //  LCS.swift
 //  music
@@ -17,6 +18,10 @@ class LCS: NSObject {
     let sex = "male"
 
     func getName() {
+        
+    }
+    
+    func getAge() {
         
     }
 
