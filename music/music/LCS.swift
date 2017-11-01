@@ -16,7 +16,11 @@ class LCS: NSObject {
     var name: Stirng = "joker"
 
 }
-
+extension LCS {
+    func changeName() {
+        
+    }
+}
 extension LCS {
     func gitName() {
         age = 90
