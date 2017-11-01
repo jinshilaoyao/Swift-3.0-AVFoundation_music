@@ -13,16 +13,14 @@ class LCS: NSObject {
     
 
     var age: Int = 12
-
     var name: Stirng = "joker"
-
     
     func setAge() {
         age = 19
     }
     
     func setName() {
-        
+        name = "bitt"
     }
 }
 
