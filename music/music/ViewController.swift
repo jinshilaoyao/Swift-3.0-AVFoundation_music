@@ -12,6 +12,9 @@ import AVFoundation
 class ViewController: UIViewController, AVAudioPlayerDelegate {
 
     let name: String = "laoin"
+    
+    let age: Int = 123
+    
     var player: AVAudioPlayer?
     override func viewDidLoad() {
         super.viewDidLoad()
