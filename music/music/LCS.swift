@@ -24,5 +24,9 @@ class LCS: NSObject {
     func getAge() {
         
     }
+    
+    func getSex() {
+        
+    }
 
 }
